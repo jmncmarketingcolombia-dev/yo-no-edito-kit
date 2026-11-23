@@ -1,0 +1,36 @@
+{
+  "catalogo": 1,
+  "actualizado": "2026-11-21",
+  "estilos": [
+    {
+      "nombre": "YO CONFIESO",
+      "version": 1,
+      "zip": "https://github.com/jmncmarketingcolombia-dev/yo-no-edito-kit/releases/download/v1/estilo-yo-confieso.zip",
+      "resumen": "Admitís algo que cuesta: texto apretado con la palabra clave en cursiva"
+    },
+    {
+      "nombre": "YO CUENTO",
+      "version": 1,
+      "zip": "https://github.com/jmncmarketingcolombia-dev/yo-no-edito-kit/releases/download/v1/estilo-yo-cuento.zip",
+      "resumen": "Contás algo que te pasó: frases a máquina, una ventana y b-roll"
+    },
+    {
+      "nombre": "YO MUESTRO",
+      "version": 1,
+      "zip": "https://github.com/jmncmarketingcolombia-dev/yo-no-edito-kit/releases/download/v1/estilo-yo-muestro.zip",
+      "resumen": "Explicás un método paso a paso sobre tu grabación de pantalla"
+    },
+    {
+      "nombre": "YO OPINO",
+      "version": 1,
+      "zip": "https://github.com/jmncmarketingcolombia-dev/yo-no-edito-kit/releases/download/v1/estilo-yo-opino.zip",
+      "resumen": "Opinión fuerte: bloques escritos a mano y dibujos trazados"
+    },
+    {
+      "nombre": "YO PRUEBO",
+      "version": 1,
+      "zip": "https://github.com/jmncmarketingcolombia-dev/yo-no-edito-kit/releases/download/v1/estilo-yo-pruebo.zip",
+      "resumen": "Mostrás un proceso: palabras gigantes, el más movido de todos"
+    }
+  ]
+}
